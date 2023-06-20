@@ -1,0 +1,6 @@
+C:\Users\emmanuel\Desktop\phones\phones\bin\Debug\phones.exe
+C:\Users\emmanuel\Desktop\phones\phones\bin\Debug\phones.pdb
+C:\Users\emmanuel\Desktop\phones\phones\obj\Debug\phones.csproj.AssemblyReference.cache
+C:\Users\emmanuel\Desktop\phones\phones\obj\Debug\phones.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel\Desktop\phones\phones\obj\Debug\phones.exe
+C:\Users\emmanuel\Desktop\phones\phones\obj\Debug\phones.pdb
